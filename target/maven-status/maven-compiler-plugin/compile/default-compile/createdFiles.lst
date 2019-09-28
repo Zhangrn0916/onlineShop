@@ -1,0 +1,17 @@
+onlineShop\service\RegistrationController.class
+onlineShop\service\CustomerServiceImpl.class
+onlineShop\dao\CustomerDao.class
+onlineShop\model\ShippingAddress.class
+onlineShop\service\CustomerService.class
+onlineShop\dao\CustomerDaoImpl.class
+onlineShop\ApplicationConfig.class
+onlineShop\model\Product.class
+onlineShop\model\BillingAddress.class
+onlineShop\model\User.class
+onlineShop\model\Authorities.class
+onlineShop\model\CartItem.class
+onlineShop\model\SalesOrder.class
+onlineShop\SecurityConfig.class
+onlineShop\controller\HomePageController.class
+onlineShop\model\Cart.class
+onlineShop\model\Customer.class

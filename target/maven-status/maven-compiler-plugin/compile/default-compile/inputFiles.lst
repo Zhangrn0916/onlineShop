@@ -1,0 +1,17 @@
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\Customer.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\ApplicationConfig.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\ShippingAddress.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\SecurityConfig.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\controller\HomePageController.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\User.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\dao\CustomerDao.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\Authorities.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\service\CustomerServiceImpl.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\Cart.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\SalesOrder.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\service\CustomerService.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\dao\CustomerDaoImpl.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\CartItem.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\Product.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\service\RegistrationController.java
+D:\Workspace\LaiOffer_Workspace\onlineShop\src\main\java\onlineShop\model\BillingAddress.java
